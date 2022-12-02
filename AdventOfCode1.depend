@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1669989449 source:f:\cplusplus\helloworld\adventofcode1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<iterator>
+	<sstream>
+
